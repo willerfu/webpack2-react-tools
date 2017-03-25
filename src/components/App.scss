@@ -1,0 +1,13 @@
+$color: green;
+$width: 200px;
+$height: 100px;
+
+.app {
+  width: $width;
+  height: $height;
+  text-size-adjust: none;
+  color: $color;
+  font-family: helvetica, arial, sans-serif;
+  border: 1px solid #ccc;
+  box-shadow: 1px 1px 1px #ddd;
+}

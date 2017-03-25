@@ -3,7 +3,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 import { AppContainer } from 'react-hot-loader';
-// AppContainer is a necessary wrapper component for HMR
+// AppContainer 是必要的 wrapper 组件为热替换
 
 import App from './components/App';
 
